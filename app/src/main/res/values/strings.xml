@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">App Red</string>
+    <string name="usuario">Nombre de Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="label_login">Inicio de Sesion</string>
+    <string name="lost">Olvido su contraseña?</string>
+    <string name="error_login">Ususario o contraseña incorreto</string>
+    <string name="recuperacion">Se Envio un Correo de Recueracion a la direccion que indico pro favor revise su bandeja de entrada y sigua las instrucciones</string>
+    <string name="eroor_recupercaion">Error, Por favor revise si la direccion de correo esta correctamente escrita y si dispone de una conexion de Internet</string>
+    <string name="ruta">/blue/conductores/s</string>
+    <string name="title_activity_track">TrackActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
